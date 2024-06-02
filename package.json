@@ -1,0 +1,11 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "You are required to create a simple calculator that returns the result of addition, subtraction, multiplication or division of two numbers.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bego miau",
+  "license": "ISC"
+}
